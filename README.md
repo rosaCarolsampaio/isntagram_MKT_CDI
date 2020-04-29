@@ -1,1 +1,1 @@
-# Porjeto para interagir com Instagram para CDI
+# Projeto para interagir com Instagram para CDI
